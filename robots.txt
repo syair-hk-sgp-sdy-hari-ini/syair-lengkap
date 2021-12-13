@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://syair-hk-sgp-sdy-hari-ini.github.io/syair-lengkap/sitemap.xml
